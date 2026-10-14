@@ -1,4 +1,4 @@
-# CALMA
+# Pausa
 
 Aplicación web de autorregulación ante impulsos. **No es un tratamiento** ni reemplaza la atención profesional.
 

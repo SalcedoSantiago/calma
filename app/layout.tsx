@@ -7,7 +7,7 @@ import "./globals.css";
 const manrope = Manrope({ variable: "--font-manrope", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "CALMA · Un espacio para hacer una pausa",
+  title: "Pausa · Antes de actuar",
   description: "Un recorrido de autorregulación ante impulsos de piromanía y cleptomanía. No reemplaza la atención profesional.",
 };
 
@@ -21,7 +21,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           Saltar al contenido
         </a>
         <header className="mx-auto flex max-w-2xl items-center justify-between px-5 pt-5">
-          <Link href="/" className="text-lg font-semibold tracking-[0.3em]">CALMA</Link>
+          <Link href="/" className="text-lg font-semibold tracking-[0.2em]">Pausa</Link>
           <Link href="/apoyo" className="glass inline-flex items-center gap-1.5 rounded-full px-3.5 py-1.5 text-sm text-muted hover:text-ink">
             <LifeBuoy size={15} aria-hidden /> Buscar apoyo
           </Link>

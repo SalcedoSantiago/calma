@@ -77,7 +77,7 @@ export default function Home() {
           ))}
         </div>
         <p className="max-w-sm text-sm text-muted">
-          CALMA es una herramienta de apoyo. No es un tratamiento ni reemplaza la atención de profesionales de salud mental.
+          Pausa es una herramienta de apoyo. No es un tratamiento ni reemplaza la atención de profesionales de salud mental.
         </p>
       </div>
     );
