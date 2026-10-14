@@ -7,6 +7,14 @@ npm install
 npm run dev   # http://localhost:3000
 ```
 
+En línea: https://salcedosantiago.github.io/calma/
+
+Para publicar cambios (arma el sitio y lo sube a la rama `gh-pages`):
+
+```bash
+npm run deploy
+```
+
 ## Recorrido (en `/`)
 
 Al empezar se elige una vez: **Piromanía** (impulso de encender fuego) o **Cleptomanía** (impulso de tomar objetos).
